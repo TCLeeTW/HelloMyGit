@@ -14,6 +14,7 @@
 		5341DAFD2B3C508E004D4F01 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5341DAFB2B3C508E004D4F01 /* Main.storyboard */; };
 		5341DAFF2B3C508F004D4F01 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5341DAFE2B3C508F004D4F01 /* Assets.xcassets */; };
 		5341DB022B3C508F004D4F01 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5341DB002B3C508F004D4F01 /* LaunchScreen.storyboard */; };
+		B0EBFBE52B3DC4980068495D /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0EBFBE42B3DC4970068495D /* CalculatorBrain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		5341DAFE2B3C508F004D4F01 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5341DB012B3C508F004D4F01 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5341DB032B3C508F004D4F01 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B0EBFBE42B3DC4970068495D /* CalculatorBrain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculatorBrain.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				5341DAF72B3C508E004D4F01 /* SceneDelegate.swift */,
 				5341DAF92B3C508E004D4F01 /* ViewController.swift */,
 				3DE116E52B3DC4420005EBBC /* ResultVC.swift */,
+				B0EBFBE42B3DC4970068495D /* CalculatorBrain.swift */,
 				5341DAFB2B3C508E004D4F01 /* Main.storyboard */,
 				5341DAFE2B3C508F004D4F01 /* Assets.xcassets */,
 				5341DB002B3C508F004D4F01 /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				5341DAFA2B3C508E004D4F01 /* ViewController.swift in Sources */,
 				3DE116E62B3DC4420005EBBC /* ResultVC.swift in Sources */,
 				5341DAF62B3C508E004D4F01 /* AppDelegate.swift in Sources */,
+				B0EBFBE52B3DC4980068495D /* CalculatorBrain.swift in Sources */,
 				5341DAF82B3C508E004D4F01 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
