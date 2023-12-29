@@ -148,6 +148,7 @@
 				5341DAFA2B3C508E004D4F01 /* ViewController.swift in Sources */,
 				0CAD79072B3E61BC00A28E49 /* CalculateViewController.swift in Sources */,
 				5341DAF62B3C508E004D4F01 /* AppDelegate.swift in Sources */,
+				B0EBFBE52B3DC4980068495D /* CalculatorBrain.swift in Sources */,
 				5341DAF82B3C508E004D4F01 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
